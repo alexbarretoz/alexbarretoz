@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbarretoz)](https://github.com/alexbarretoz)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/alexbarretoz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexbarretoz&repo=github-readme-stats)](https://github.com/alexbarretoz)
