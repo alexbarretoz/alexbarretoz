@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexbarretoz&theme=gruvbox)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbarretoz)](https://github.com/alexbarretoz?tab=repositories)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbarretoz" />
