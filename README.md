@@ -17,7 +17,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
@@ -43,7 +42,23 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/alexbarretoz">
-    <img height="150em" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexbarretoz&theme=gruvbox)](https://git.io/streak-stats)"/>
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=alexbarretoz&theme=gruvbox[(https://git.io/streak-stats)]"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbarretoz&them&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alex-jose-barreto-zais-809989162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:eduardo.duduribeiro1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+
+
+<div align="center">
+
+  ![Snake animation](https://github.com/alexbarretoz/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+
