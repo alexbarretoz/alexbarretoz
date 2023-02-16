@@ -5,7 +5,7 @@
  
 
 <p align="left">
-   Soy Desarrollador Backend (Python, Django, JavaScript, Node.js, Express, AWS)
+   I am a backend developer I like new challenges and learning technologies
 </p>
  
 </div>
