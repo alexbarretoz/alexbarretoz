@@ -1,5 +1,5 @@
 ### Hi there, I´m Alex 👋
-### Desarrollador Backend
+### I´m Desarrollador Backend
 
 <!--
 **alexbarretoz/alexbarretoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
