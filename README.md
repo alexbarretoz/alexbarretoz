@@ -1,11 +1,12 @@
-
-### I´m Desarrollador Backend
-
 <div>
 <h1 align="center">
    Hi there, I´m <a href="https://www.linkedin.com/in/alex-jose-barreto-zais-809989162/">Alex Barreto 👋</a>
   </h1> 
  
+
+<p align="center">
+   Soy Desarrollador Backend (Python, Django, JavaScript, Node.js, Express, AWS)
+</p>
  
 </div>
 
