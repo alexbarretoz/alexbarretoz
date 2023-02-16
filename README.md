@@ -1,6 +1,16 @@
 ### Hi there, I´m Alex 👋
 ### I´m Desarrollador Backend
 
+<div>
+<h1 align="center">
+   Hi there, I´m <a href="https://www.linkedin.com/in/alex-jose-barreto-zais-809989162/">Alex Barreto 👋</a>
+  </h1> 
+ 
+ 
+</div>
+
+
+
 <!--
 **alexbarretoz/alexbarretoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
