@@ -1,4 +1,4 @@
-### Hi there, I´m Alex 👋
+
 ### I´m Desarrollador Backend
 
 <div>
