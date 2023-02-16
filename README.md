@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 -->
 ### Git status
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexbarretoz&theme=gruvbox)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexbarretoz&theme=gruvbox)](https://git.io/streak-stats)
 
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/alexbarretoz">
     <img height="150em" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexbarretoz&theme=gruvbox)](https://git.io/streak-stats)"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbarretoz&them&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
